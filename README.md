@@ -2,7 +2,7 @@
 <h1 align="center">Buenas 👐🏻, Stefania por aquí!</h1>
 
 
-<h3 align="center">Geóloga 🌎 y Newbie en datos y tecnología 📊(Maquilladora en mi tiempo libre💄) .</h3>
+<h3 align="center">Geóloga 🌎 y Newbie en datos y tecnología 📊 (Maquilladora en mi tiempo libre💄) .</h3>
 <img align="right" alt="Coding" width="333" src= "https://img.freepik.com/vector-gratis/linda-chica-hacker-operando-laptop-dibujos-animados-vector-icono-ilustracion-personas-tecnologia-aislada-plana_138676-9487.jpg?semt=ais_hybrid&w=740" >
 
 ---
