@@ -11,7 +11,7 @@
 
 - 🎀 Mis proyectos:
 
-   ✔[Proyecto Udemy-Ventas en Telefonía](https://github.com/StefaniaCosentino/Proyecto-Udemy) - Power Bi
+   ✔[Proyecto Udemy-Ventas en Telefonía](https://github.com/StefaniaCosentino/Proyecto-Udemy) - Power BI
 
 - 🆕 Estoy aprendiendo sobre **Data Science y Testing QA.**
 
