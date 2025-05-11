@@ -11,7 +11,7 @@
 
 - 🎀 Mi primer proyecto:
 
-   ✔[Proyecto Udemy-Ventas en Telefonía](https://app.powerbi.com/view?r=eyJrIjoiYWI4ODQzOWMtYzkwMy00YTgwLWFiN2UtMDE1MjVkZjFkMWVjIiwidCI6IjliOTI5NDVmLTdkNmItNGE4NC1iYzMzLTBhZjA5ZGQxZTM5NiJ9I) - Power Bi
+   ✔[Proyecto Udemy-Ventas en Telefonía](https://app.powerbi.com/view?r=eyJrIjoiYWI4ODQzOWMtYzkwMy00YTgwLWFiN2UtMDE1MjVkZjFkMWVjIiwidCI6IjliOTI5NDVmLTdkNmItNGE4NC1iYzMzLTBhZjA5ZGQxZTM5NiJ9) - Power Bi
 
 - 🆕 Estoy aprendiendo sobre **Data Science y Testing QA.**
 
