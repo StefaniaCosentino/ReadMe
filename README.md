@@ -13,6 +13,8 @@
 
    ✔[Proyecto Udemy-Ventas en Telefonía](https://github.com/StefaniaCosentino/Proyecto-Udemy) - Power BI
 
+   ✔[Proyecto Delitos-Análisis de delitos durante 2022 y 2023](https://github.com/StefaniaCosentino/Proyecto-Delitos-CABA) - Power BI
+
 - 🆕 Estoy aprendiendo sobre **Data Science y Testing QA.**
 
 - 🙆🏻‍♀️ Tengo interés por los datos, los testeos de Software y, obvio, la Geología 💁🏻‍♀️
